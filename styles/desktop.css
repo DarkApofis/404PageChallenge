@@ -1,0 +1,27 @@
+#container{
+    padding: 40px 120px 0 77px;
+    height: 100vh;
+}
+
+main{
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+img{
+    width: 539.22px;
+    height: 447.43px;
+    margin-right: 118.78px;
+}
+.container-description-title{
+    font-size: 4rem;
+}
+.container-description-info{
+    margin-top: 36px;
+    width: 60%;
+}
+footer{
+    position: relative;
+    bottom: 0px;
+}
